@@ -1,5 +1,5 @@
 <div align="center">
-<img width="30%" src="https://drive.google.com/file/d/1R_FH1Osq0bu93PG8A_O_EJvYgCTrEubw/view?usp=drive_link">
+<img width="30%" src="https://drive.google.com/file/d/1R_FH1Osq0bu93PG8A_O_EJvYgCTrEubw/view?usp=sharing">
 
 # Discord like app for developers
 </div>
