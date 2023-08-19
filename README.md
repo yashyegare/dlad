@@ -1,6 +1,6 @@
 <div align="center">
 <img width="30%" src="https://github.com/yashyegare/content/blob/main/images/dlad-logo.png">
-(https://github.com/yashyegare/dlad/assets/78661214/81265130-71f7-4c70-8045-22f409881020)
+![Alt Text] (https://github.com/yashyegare/dlad/assets/78661214/81265130-71f7-4c70-8045-22f409881020)
 
 
 
