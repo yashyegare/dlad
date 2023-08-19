@@ -70,7 +70,8 @@ python manage.py runserver
 <p align="center">
   Feed Home
 </p>
-<img src="https://github.com/yashyegare/images/blob/main/dlad-1.png">
+<img src="https://github.com/yashyegare/dlad/assets/78661214/cf7d2b3b-b009-4091-811e-20d32084bd27">
+
 </td> 
 <td width="50%">
 <br>
