@@ -1,5 +1,5 @@
 <div align="center">
-<img width="30%" src="https://github.com/yashyegare/images/blob/main/dlad-logo.png">
+<img width="30%" src="https://github.com/yashyegare/images/blob/1a650d2259b40402aca4f8578f0977b3f6a03f13/dlad-logo.png">
 
 # Discord like app for developers
 </div>
