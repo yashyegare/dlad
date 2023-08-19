@@ -1,5 +1,5 @@
 <div align="center">
-<img width="30%" src="dlad-1.png">
+<img width="30%" src="https://github.com/yashyegare/images/blob/main/dlad-logo.png">
 
 # Discord like app for developers
 </div>
@@ -71,6 +71,6 @@ python manage.py runserver
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="https://github.com/yashyegare/images/blob/main/dlad-2.png">  
+<img src="https://github.com/yashyegare/images/blob/main/dlad-logo.png">  
 </td>
 </table>
