@@ -1,5 +1,7 @@
 <div align="center">
 <img width="30%" src="https://github.com/yashyegare/images/blob/main/dlad-logo.png">
+![Alt Text](https://github.com/yashyegare/images/blob/main/dlad-logo.png)
+
 
 # Discord like app for developers
 </div>
