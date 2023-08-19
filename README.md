@@ -1,6 +1,6 @@
 <div align="center">
-<!-- <img width="30%" src="https://github.com/yashyegare/content/blob/main/images/dlad-logo.png"> -->
-![Alt Text](https://<yashyegare>.github.io/<content>/images/dlad-logo.png)
+<img width="30%" src="https://github.com/yashyegare/content/blob/main/images/dlad-logo.png">
+<!-- ![Alt Text](https://<yashyegare>.github.io/<content>/images/dlad-logo.png) -->
 
 
 
