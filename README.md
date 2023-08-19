@@ -1,5 +1,5 @@
 <div align="center">
-<img width="30%" ![Alt Text](https://github.com/yashyegare/images/blob/main/dlad-logo.png)>
+<img width="30%" src="https://github.com/yashyegare/images/blob/main/dlad-logo.png">
 
 
 
