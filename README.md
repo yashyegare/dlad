@@ -79,6 +79,6 @@ python manage.py runserver
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="//github.com/yashyegare/dlad/assets/78661214/9445d2fd-4b42-4f28-8a6c-4d5de5ff7d20">  
+<img src="https://github.com/yashyegare/dlad/assets/78661214/9445d2fd-4b42-4f28-8a6c-4d5de5ff7d20">  
 </td>
 </table>
