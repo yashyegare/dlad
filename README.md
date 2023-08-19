@@ -68,6 +68,7 @@ python manage.py runserver
 &nbsp; 
 <br>
 <p align="center">
+
   Feed Home
 </p>
 <img src="https://github.com/yashyegare/dlad/assets/78661214/cf7d2b3b-b009-4091-811e-20d32084bd27">
@@ -78,6 +79,6 @@ python manage.py runserver
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="https://github.com/yashyegare/images/blob/main/dlad-2.png">  
+<img src="//github.com/yashyegare/dlad/assets/78661214/9445d2fd-4b42-4f28-8a6c-4d5de5ff7d20">  
 </td>
 </table>
